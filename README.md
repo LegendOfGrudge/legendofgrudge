@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif" />
+</div>
+
 - ✏ I’m currently enrolled in RRC Polytech of the BIT program (term 5)
 - 👀 Always looking for new skills to learn and achieve
 - 🍿 Fun Fact? I am an ordained minister of the religion Jedi. That makes me a Jedi Knight!
