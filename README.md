@@ -5,7 +5,7 @@
 - ✏ I’m currently enrolled in RRC Polytech of the BIT program (term 5)
 - 👀 Always looking for new skills to learn and achieve
 - 🍿 Fun Fact? I am an ordained minister of the religion Jedi. That makes me a Jedi Knight!
-- 📫 Connect with me via <a href="mailto: nicholasfletcher3682@yahoo.ca">Yahoo</a>
+- 📫 Connect with me via <a href="mailto: nicholasfletcher3682@yahoo.ca">Yahoo</a>, <a href="https://www.linkedin.com/in/nicholasifletcher/">LinkedIn</a>
 
 ---
 
