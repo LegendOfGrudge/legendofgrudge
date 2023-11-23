@@ -70,7 +70,7 @@
 
 ---
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" width="250" height="250" />
+<img align="right" src="https://img.devrant.com/devrant/rant/c_1368075_nq6sV.jpg" width="250" height="250" />
 
 ## Socials 📲
 <p align="left">
